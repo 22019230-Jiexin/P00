@@ -10,7 +10,7 @@ public class CalculatorTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-	}
+	} // add comment
 	// code executed before all test methods
 	
 	@Before
